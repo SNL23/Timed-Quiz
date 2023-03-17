@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 0;
+
+}
+
+container {
+    display: flex;
+    flex-direction: column;
+    flex-direction: start;
+    padding: 10px;
+}
+
+.scores {
+    border: none;
+    color: rgb(134, 12, 150);
+    background-color: white;
+    font-size: 25px;
+}
+
+.timer {
+    float: right;
+    font-size: 25px;
+}
+
+.top {
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+section,
+main {
+    text-align: center;
+    margin: 0 auto;
+}
+h1{
+    font-size:50px ;
+    font-weight: bold;
+}
+.button {
+    margin: auto;
+    background-color: rgb(134, 12, 150);
+    color: white;
+}
+
+main {
+    /*display:none;
+    
+}
