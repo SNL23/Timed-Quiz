@@ -33,6 +33,12 @@ main {
     text-align: center;
     margin: 0 auto;
 }
+p{
+    font-size: larger;
+    font-weight: bold;
+    border: solid;
+    margin:
+}
 h1{
     font-size:50px ;
     font-weight: bold;
@@ -43,7 +49,16 @@ h1{
     color: white;
 }
 
-main {
-    /*display:none;
-    
+.big{
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+.quiz-question{
+    font-size: 40px;
+}
+.btn{
+    display:block;
+    border:solid ;
+
 }
